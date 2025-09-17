@@ -188,7 +188,7 @@ Email: priyanshs.ece@gmail.com
 LinkedIn: https://linkedin.com/in/priyanshuhbti  
 GitHub: https://github.com/priyanshscpp
 
-Cerify Systems — [Company Link] ← *(replace with official URL)*
+Cerify Systems — http://cerify.ai/  
 
 ---
 
