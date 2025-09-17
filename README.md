@@ -1,4 +1,4 @@
-# Cerify Systems — Software Engineer Intern (Jan 2025 – Jun 2025)
+# Cerify Systems — Software Engineer Intern  Report(Jan 2025 – Jun 2025)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=blue) ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge&logo=verizon)
 
@@ -7,7 +7,15 @@
 
 ---
 
-This README is a compact, interviewer-friendly summary of my internship contributions, architecture decisions, and measured impact. It is suitable for attaching to a resume, sharing as a portfolio link, or presenting during interviews.
+This README is a compact, interviewer-friendly summary of my internship contributions, architecture decisions, and measured impact. It is suitable for understading my work in the company.
+
+---
+## Organization Detail
+**Organization:** [Cerify Systems](https://www.cerifysystems.com)  
+**Sector:** Cloud Backend Systems, Smart Contract Verification.
+**Location:** New Delhi, India (Hybrid)  
+**Proof of Work:** [LinkedIn Internship Entry](https://www.linkedin.com/in/priyanshuhbti)  
+**GitHub:** [https://github.com/Cerify-Systems](https://github.com/Cerify-Systems)  
 
 ---
 
@@ -187,8 +195,6 @@ jobs:
 Email: priyanshs.ece@gmail.com  
 LinkedIn: https://linkedin.com/in/priyanshuhbti  
 GitHub: https://github.com/priyanshscpp
-
-Cerify Systems — http://cerify.ai/  
 
 ---
 
